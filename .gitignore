@@ -1,1 +1,5 @@
 .env
+
+__pycache__/
+
+strava_mcp_demo_env/
